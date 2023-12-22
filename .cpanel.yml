@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/necceduc/butwalbakerycakery.com.np/
-    - /bin/cp / $DEPLOYPATH
+    - /bin/cp -R * $DEPLOYPATH
